@@ -1,0 +1,7 @@
+INFO:root:Server listening on port 8000
+INFO:root:Connection established with client ('127.0.0.1', 55859)
+INFO:root:Sending file list to client ('127.0.0.1', 55859)
+INFO:root:Sending file list to client ('127.0.0.1', 55859)
+INFO:root:Sent client.py (2675 bytes) to client ('127.0.0.1', 55859)
+INFO:root:File exit not found, sending error message to client ('127.0.0.1', 55859)
+ERROR:root:Error sending file to client ('127.0.0.1', 55859): [WinError 10054] An existing connection was forcibly closed by the remote host
